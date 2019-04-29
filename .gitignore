@@ -1,3 +1,5 @@
+# This file exculdes files from the git workflow
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
