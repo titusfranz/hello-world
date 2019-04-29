@@ -5,3 +5,4 @@ Git tutorial for experimental methods seminar
 - Let's try our first commit
 - After a second commit
 - let's do a pull request
+- another commit
